@@ -1,0 +1,22 @@
+taskKey="com.codegym.task.task03.task0302"
+
+The task passed testing!
+2019.01.12 18:27
+
+Your solution to the task was better than 8% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 1.23
+
+Your reward: x2
+
+Detailed information about verification of your program:
+Add a printString method that takes a String argument.
+The printString method must be void.
+The printString method must be static.
+The printString method must be public.
+The printString method must display the passed text.
+The program should display "Hello, Amigo!".
+
+

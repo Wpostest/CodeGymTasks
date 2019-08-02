@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task04.task0439"
+
+The task passed testing!
+2019.05.17 9:06
+
+Your solution to the task was better than 2% of other students
+
+You solved it in 4 attempts
+
+The average number of attempts for this task is 1.34
+
+Detailed information about verification of your program:
+The program should read the name from the keyboard.
+The program should display text on the screen.
+The program should display the text specified in the task 10 times.
+The program must use a for loop.

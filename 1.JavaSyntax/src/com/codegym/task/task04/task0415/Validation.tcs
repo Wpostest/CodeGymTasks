@@ -1,0 +1,15 @@
+taskKey="com.codegym.task.task04.task0415"
+
+The task passed testing!
+2019.04.26 14:48
+Your solution to the task was better than 11% of other students
+
+You solved it in 6 attempts
+
+The average number of attempts for this task is 3.32
+
+Detailed information about verification of your program:
+The program should read three numbers from the keyboard.
+The program should display text on the screen according to the task conditions.
+If a triangle with the specified sides could exist, you need to display: "The triangle is possible."
+If a triangle with the specified sides cannot exist, you need to display: "The triangle is not possible."

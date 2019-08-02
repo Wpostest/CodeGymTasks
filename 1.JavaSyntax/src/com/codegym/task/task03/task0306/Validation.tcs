@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task03.task0306"
+
+The task passed testing!
+2019.01.15 19:10
+
+Your solution to the task was better than 43% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 2.08
+
+Detailed information about verification of your program:
+The program must not read data from the keyboard.
+The main method must contain only one call to System.out.println.
+The sequence of digits and arithmetic operations can not be changed.
+The final expression should have 2 opening and 2 closing parentheses.
+
+

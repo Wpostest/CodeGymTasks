@@ -1,0 +1,14 @@
+taskKey="com.codegym.task.task04.task0424"
+
+The task passed testing!
+2019.05.13 18:28
+Your solution to the task was better than 52% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 2.15
+
+Detailed information about verification of your program:
+The program should read the numbers from the keyboard.
+The program should use System.out.println() or System.out.print().
+The program should display the index of the number that is different from the others.

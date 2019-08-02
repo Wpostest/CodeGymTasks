@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task03.task0317"
+
+The task passed testing!
+2019.01.22 18:27
+
+Your solution to the task was better than 2% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 1.04
+
+Detailed information about verification of your program:
+The program should output text.
+The The text should begin with "日".
+The text should end with "語".
+The text should consist of 3 symbols.
+The displayed text must match the task conditions.

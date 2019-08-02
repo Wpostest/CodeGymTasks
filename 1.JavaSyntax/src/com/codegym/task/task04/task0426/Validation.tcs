@@ -1,0 +1,21 @@
+taskKey="com.codegym.task.task04.task0426"
+
+The task passed testing!
+2019.05.14 9:17
+
+Your solution to the task was better than 3% of other students
+
+You solved it in 4 attempts
+
+The average number of attempts for this task is 1.69
+
+Detailed information about verification of your program:
+The program should read a number from the keyboard.
+The program should use System.out.println() or System.out.print().
+If the number is negative and even, display "Negative even number".
+If the number is negative and odd, display "Negative odd number".
+If the number is 0, display "Zero".
+If the number is positive and even, display "Positive even number".
+If the number is positive and odd, display "Positive odd number".
+
+

@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task04.task0436"
+
+The task passed testing!
+2019.05.16 10:05
+
+Your solution to the task was better than 20% of other students
+
+You solved it in 2 attempts
+
+The average number of attempts for this task is 2.13
+
+Detailed information about verification of your program:
+The program should read two numbers from the keyboard.
+The program should display text on the screen.
+The program should display a n x m rectangle made of eights.
+The program must use a for loop.
+

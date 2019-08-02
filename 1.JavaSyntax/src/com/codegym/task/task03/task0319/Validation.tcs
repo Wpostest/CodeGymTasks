@@ -1,0 +1,20 @@
+taskKey="com.codegym.task.task03.task0319"
+
+The task passed testing!
+2019.01.24 18:36 
+
+Your solution to the task was better than 39% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 2.02
+
+Your reward: x2
+
+Detailed information about verification of your program:
+The program should output text.
+The program must read data from the keyboard.
+The displayed text must contain the entered name.
+The displayed text must contain the entered number1.
+The displayed text must contain the entered number2.
+

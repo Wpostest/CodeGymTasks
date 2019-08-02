@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task04.task0416"
+
+The task passed testing!
+27.04.2019 12:26
+Your solution to the task was better than 47% of other students
+
+You solved it in 2 attempts
+
+The average number of attempts for this task is 3.93
+
+Your reward: x3
+
+Detailed information about verification of your program:
+The program should read a real number from the keyboard.
+The program should display text on the screen.
+If the light is green, display: "green"
+If the light is yellow, display: "yellow"
+If the light is red, display: "red"

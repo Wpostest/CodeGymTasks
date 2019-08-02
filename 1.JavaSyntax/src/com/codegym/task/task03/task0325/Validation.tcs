@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task03.task0325"
+
+The task passed testing!
+29.01.2019 20:14
+
+Your solution to the task was better than 22% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 1.39
+
+Your reward: x2
+
+Detailed information about verification of your program:
+The program should output text.
+The program must read data from the keyboard.
+The displayed text must contain the entered number n.
+The displayed text must fully match the task conditions.

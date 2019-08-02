@@ -1,0 +1,19 @@
+taskKey="com.codegym.task.task04.task0428"
+
+The task passed testing!
+2019.05.15 8:55
+
+Your solution to the task was better than 31% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 1.81
+
+Detailed information about verification of your program:
+The program should read the numbers from the keyboard.
+The program must display a number on the screen.
+The program should display the number of positive numbers in the original set.
+If there are no positive numbers, the program should display "0".
+Note that 0 is not a positive or negative number.
+
+

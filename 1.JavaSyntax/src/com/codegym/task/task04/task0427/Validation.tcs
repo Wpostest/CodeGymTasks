@@ -1,0 +1,24 @@
+taskKey="com.codegym.task.task04.task0427"
+
+The task passed testing!
+2019.05.14 9:52
+
+Your solution to the task was better than 62% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 2.78
+
+Detailed information about verification of your program:
+The program should read one number from the keyboard.
+The program should use System.out.println() or System.out.print()..
+The program should display a string description of the number and nothing else.
+If the number is even and has one digit, display "even single-digit number".
+If the number is odd and has one digit, display "odd single-digit number".
+If the number is even and has two digits, display "even two-digit number".
+If the number is odd and has two digits, display "odd two-digit number".
+If the number is even and has three digits, display "even three-digit number".
+If the number is odd and has three digits, display "odd three-digit number".
+If the entered number doesn't fall in the range 1 - 999, don't display anything
+
+

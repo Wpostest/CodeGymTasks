@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task05.task0524"
+
+The task passed testing!
+2019.05.24 11:25
+
+Your solution to the task was better than 2% of other students
+
+You solved it in 2 attempts
+
+The average number of attempts for this task is 1.14
+
+Detailed information about verification of your program:
+The Circle class must have double variables x, y, and r.
+The class must have one constructor.
+The constructor must be public.
+The constructor must have three double parameters.
+The constructor must initialize all of the class's instance variables.

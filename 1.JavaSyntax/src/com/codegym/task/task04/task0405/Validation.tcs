@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task04.task0405"
+
+The task passed testing!
+2019.04.04 18:02
+
+Your solution to the task was better than 34% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 1.67
+
+Detailed information about verification of your program:
+The Cat class must have only one catCount variable.
+The variable catCount must be a static int, have a private access modifier, and be initialized to zero.
+The Cat class must have two methods: setCatCount and main.
+
+The Cat class's setCatCount method must set the value of the catCount variable equal to the passed argument.

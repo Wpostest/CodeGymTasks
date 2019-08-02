@@ -1,0 +1,22 @@
+taskKey="com.codegym.task.task05.task0517"
+
+The task passed testing!
+2019.05.24 9:52
+
+Your solution to the task was better than 9% of other students
+
+You solved it in 5 attempts
+
+The average number of attempts for this task is 2.73
+
+Detailed information about verification of your program:
+The Cat class must have a String variable name.
+The Cat class must have an int variable age.
+The Cat class must have an int variable weight.
+The Cat class must have a String variable address.
+The Cat class must have a String variable color.
+The class must have a constructor that takes a name as an argument, but initializes all variables except the address.
+The class must have a constructor that takes a name, weight, and age as arguments, and initializes all variables except the address.
+The class must have a constructor that takes a name and age as arguments, and initializes all variables except the address.
+The class must have a constructor that takes a weight and color as arguments, and initializes all variables except the name and address.
+The class must have a constructor that takes a weight, color, and address as arguments, and initializes all variables except the name.

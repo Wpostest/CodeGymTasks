@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task04.task0407"
+
+The task passed testing!
+2019.04.04 18:20
+
+Your solution to the task was better than 8% of other students
+
+You solved it in 2 attempts
+
+The average number of attempts for this task is 1.39
+
+Detailed information about verification of your program:
+The program should display text on the screen.
+Don't change the line responsible for screen output.
+The Cat class must have only one count variable.
+The Cat class's variable count must be a static int, have a public access modifier, and be initialized to zero.
+The main method should have only two initialized Cat variables.
+The variable count must store the actual number of cat objects created.

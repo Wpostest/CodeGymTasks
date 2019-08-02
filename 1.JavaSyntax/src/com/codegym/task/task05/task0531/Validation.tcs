@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task05.task0531"
+
+The task passed testing!
+2019.05.29 11:19
+
+Your solution to the task was better than 52% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 1.80
+
+Detailed information about verification of your program:
+The program should read the numbers from the keyboard.
+The class must have a public static void main method.
+The class must have a public static min method that takes 5 int arguments.
+The min method must return the minimum of the 5 passed numbers. If there are several minimum numbers, return any of them.
+The program should display a string that starts with "Minimum = ".
+The program should display a string that ends with the minimum of the 5 entered numbers.

@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task04.task0413"
+
+The task passed testing!
+2019.04.26 14:01
+Your solution to the task was better than 15% of other students
+
+You solved it in 2 attempts
+
+The average number of attempts for this task is 1.74
+
+Your reward: x3
+
+Detailed information about verification of your program:
+The program should read a number from the keyboard.
+The program should display text on the screen.
+If you enter a number from 1 to 7, you need to display the name of the day of the week.
+If you enter a number outside the range of 1 to 7, then display a notification that there is no such day of the week.

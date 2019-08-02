@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task04.task0442"
+
+The task passed testing!
+2019.05.20 10:37
+
+Your solution to the task was better than 45% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 2.33
+
+Detailed information about verification of your program:
+The program should read the numbers from the keyboard.
+If the user enters -1, the program should display the sum of all entered numbers and then end.
+The program must calculate and display the sum of the entered numbers.
+The program must use a for loop or a while loop.

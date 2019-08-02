@@ -1,0 +1,36 @@
+2019-05-13 08:48:10 INFO  CodeGymTasksProjectComponent.projectOpened(74) - ---------- Project CodeGymTasks opened ----------
+2019-05-13 08:48:10 INFO  CodeGymTasksProjectComponent.projectOpened(75) - ---------- Version 3.27 ----------
+
+2019-05-13 08:48:10 INFO  CodeGymTasksProjectComponent.setAutoscrolls(359) - Autoscrolls successfully set
+2019-05-13 08:48:11 INFO  ApacheHttpClient.login(226) - Waiting for server response.
+2019-05-13 08:48:11 INFO  ApacheHttpClient.login(226) - Waiting for server response.
+2019-05-13 08:48:11 INFO  ApacheHttpClient.login(230) - responseCode = 200
+2019-05-13 08:48:11 INFO  ApacheHttpClient.login(261) - JSESSIONID OK
+2019-05-13 08:48:11 INFO  ApacheHttpClient.refreshUserInfo(289) - responseCode = 200
+2019-05-13 08:48:11 INFO  ApacheHttpClient.refreshUserInfo(295) - User information received.
+2019-05-13 08:48:11 INFO  ApacheHttpClient.startGA(33) - GAService started.
+2019-05-13 08:48:11 INFO  AbstractRestApiClient.startService(69) - EventsService started.
+2019-05-13 08:48:19 INFO  ApacheHttpClient.getWebResourceAsStream(435) - responseCode = 200
+2019-05-13 08:48:19 INFO  ApacheHttpClient.login(226) - Waiting for server response.
+2019-05-13 08:48:19 INFO  ApacheHttpClient.login(226) - Waiting for server response.
+2019-05-13 08:48:19 INFO  ApacheHttpClient.login(230) - responseCode = 200
+2019-05-13 08:48:19 INFO  ApacheHttpClient.login(261) - JSESSIONID OK
+2019-05-13 08:48:25 INFO  ApacheHttpClient.getWebResourceAsStream(435) - responseCode = 200
+2019-05-13 08:48:39 INFO  InfoPanel.getQuestHtmlByVF(152) - Panel for quest has been created. Quest name: 1.JavaSyntax
+2019-05-13 08:48:45 INFO  ApacheHttpClient.getWebResourceAsStream(435) - responseCode = 200
+2019-05-13 08:48:46 INFO  ApacheHttpClient.getFilteredTasks(322) - responseCode = 200
+2019-05-13 08:49:01 INFO  ApacheHttpClient.getFilteredTasks(322) - responseCode = 200
+2019-05-13 08:49:06 INFO  ApacheHttpClient.getFilteredTasks(322) - responseCode = 200
+2019-05-13 08:49:09 INFO  ApacheHttpClient.getFilteredTasks(322) - responseCode = 200
+2019-05-13 08:50:28 INFO  ApacheHttpClient.getWebResourceAsStream(435) - responseCode = 200
+2019-05-13 08:50:29 INFO  ApacheHttpClient.getFilteredTasks(322) - responseCode = 200
+2019-05-13 08:50:37 INFO  ApacheHttpClient.getFilteredTasks(322) - responseCode = 200
+2019-05-13 08:51:02 INFO  ApacheHttpClient.getTaskTemplateInfo(339) - responseCode = 200
+2019-05-13 08:51:03 INFO  ApacheHttpClient.testConnection(184) - responseCode = 200
+2019-05-13 08:51:03 INFO  ApacheHttpClient.testConnection(196) - result = true
+2019-05-13 08:51:04 INFO  ApacheHttpClient.testConnection(184) - responseCode = 200
+2019-05-13 08:51:04 INFO  ApacheHttpClient.testConnection(196) - result = true
+2019-05-13 08:51:04 INFO  ApacheHttpClient.getWebResourceAsStream(435) - responseCode = 200
+2019-05-13 08:51:05 INFO  ApacheHttpClient.testConnection(184) - responseCode = 200
+2019-05-13 08:51:05 INFO  ApacheHttpClient.testConnection(196) - result = true
+2019-05-13 08:51:11 INFO  ApacheHttpClient.sendEvent(468) - responseCode = 200

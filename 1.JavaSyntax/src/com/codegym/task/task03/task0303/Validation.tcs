@@ -1,0 +1,20 @@
+taskKey="com.codegym.task.task03.task0303"
+
+The task passed testing!
+2019.01.12 18:36
+
+Your solution to the task was better than 30% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 1.49
+
+Your reward: x2
+
+Detailed information about verification of your program:
+The convertEurToUsd method must multiply the euro amount by the exchange rate and return the result.
+The main method must call the convertEurToUsd method twice with any arguments.
+The main method should display the result of the calls, each time on a new line.
+The convertEurToUsd method should not display anything.
+
+

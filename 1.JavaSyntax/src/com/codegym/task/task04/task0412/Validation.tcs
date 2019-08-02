@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task04.task0412"
+
+The task passed testing!
+2019.04.10 18:29
+Your solution to the task was better than 18% of other students
+
+You solved it in 2 attempts
+
+The average number of attempts for this task is 1.96
+
+Your reward: x3
+
+Detailed information about verification of your program:
+The program should read a number from the keyboard.
+The program must display a number on the screen.
+If the entered number is positive, double it and display the result.
+If the entered number is negative, increase it by one and display the result.
+If the entered number is zero, display zero.

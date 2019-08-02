@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task04.task0403"
+
+The task passed testing!
+2019.04.04 17:54
+
+Your solution to the task was better than 15% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 1.25
+
+Detailed information about verification of your program:
+The Cat class must contain only one variable called name.
+The variable name must be a String and have a private access modifier.
+The Cat class must have only two methods: setName and main.
+The Cat class's setName method must set the value of the private String variable name equal to the passed String argument name.
+

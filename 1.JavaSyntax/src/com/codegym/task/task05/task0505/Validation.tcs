@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task05.task0505"
+
+The task passed testing!
+2019.05.22 10:00
+
+Your solution to the task was better than 26% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 1.38
+
+Detailed information about verification of your program:
+The program must not read data from the keyboard.
+You need to create three Cat objects.
+You need to conduct three fights.
+The program should display the result of each battle on a new line.

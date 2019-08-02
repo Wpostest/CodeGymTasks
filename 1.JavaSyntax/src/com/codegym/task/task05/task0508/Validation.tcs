@@ -1,0 +1,24 @@
+taskKey="com.codegym.task.task05.task0508"
+
+The task passed testing!
+2019.05.22 10:27
+
+Your solution to the task was better than 22% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 1.32
+
+Detailed information about verification of your program:
+The program must not read data from the keyboard.
+The Person class must have a public static void main method.
+The Person class should have 3 variables.
+The Person class must have a String variable name.
+The Person class must have an int variable age.
+The Person class must have a char variable sex.
+The class must have a setter for the variable name.
+The class must have a getter for the variable name.
+The class must have a setter for the variable age.
+The class must have a getter for the variable age.
+The class must have a setter for the variable sex.
+The class must have a getter for the variable sex.

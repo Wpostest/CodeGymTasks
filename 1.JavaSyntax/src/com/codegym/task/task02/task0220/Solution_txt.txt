@@ -1,0 +1,4 @@
+Cat kitty = new Cat();
+Cat smokey = null;
+smokey = kitty;
+kitty = null;

@@ -1,0 +1,20 @@
+taskKey="com.codegym.task.task01.task0131"
+
+The task passed testing!
+2019.01.24 18:52
+
+Your solution to the task was better than 17% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 1.30
+
+Detailed information about verification of your program:
+The getFeetFromInches(int) method must be public and static.
+The getFeetFromInches method must return an int.
+The getFeetFromInches method should not display anything.
+The getFeetFromInches method must correctly return the number of full feet represented by the variable inches.
+
+
+
+

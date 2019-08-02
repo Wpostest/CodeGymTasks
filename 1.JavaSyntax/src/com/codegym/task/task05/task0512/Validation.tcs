@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task05.task0512"
+
+The task passed testing!
+2019.05.23 10:30
+
+Your solution to the task was better than 14% of other students
+
+You solved it in 2 attempts
+
+The average number of attempts for this task is 1.72
+
+Detailed information about verification of your program:
+The program must not read data from the keyboard.
+The Circle class must have int variables centerX, centerY, radius, width and color.
+The class must have an initialize method that takes centerX, centerY, and radius as arguments, and initializes the corresponding instance variables.
+The class must have an initialize method that takes centerX, centerY, radius, and width as arguments, and initializes the corresponding instance variables.
+The class must have an initialize method that takes centerX, centerY, radius, width, and color as arguments, and initializes the corresponding instance variables.

@@ -1,0 +1,19 @@
+taskKey="com.codegym.task.task04.task0432"
+
+The task passed testing!
+2019.05.15 9:57
+
+Your solution to the task was better than 11% of other students
+
+You solved it in 2 attempts
+
+The average number of attempts for this task is 1.51
+
+Detailed information about verification of your program:
+The program should read the text from the keyboard.
+The program should display text on the screen.
+Each value should be displayed on a new line.
+The program should display the string N times.
+The program must use a while loop.
+
+

@@ -1,0 +1,26 @@
+package com.codegym.task.task02.task0205;
+
+
+
+/* 
+
+Pay raise
+
+
+
+*/
+
+public class Solution{
+	
+	public static void main(String[] args){
+		
+		hackSalary(8000);
+	}
+
+	public static void hackSalary(int a){
+		
+		//write your code here
+
+		System.out.println("Your salary is: " + (a + 1000) + " dollars per month.");
+	}
+}

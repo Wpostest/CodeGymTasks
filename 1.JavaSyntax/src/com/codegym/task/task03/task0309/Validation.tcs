@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task03.task0309"
+
+The task passed testing!
+2019.01.15 20:01 
+
+Your solution to the task was better than 11% of other students
+
+You solved it in 2 attempts
+
+The average number of attempts for this task is 1.47
+
+Detailed information about verification of your program:
+The program should output text.
+The displayed text should contain 5 lines.
+The number in each new line must be greater than the previous one.
+The displayed text must match the task conditions.
+

@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task05.task0529"
+
+The task passed testing!
+2019.05.29 10:49
+
+Your solution to the task was better than 37% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 2.08
+
+Detailed information about verification of your program:
+The program must read data from the keyboard.
+The program should stop reading data from the keyboard after the user enters the word "sum" in lowercase letters and presses Enter.
+The program should work correctly if the user enters one number and the word "sum".
+The program should work correctly if the user enters two numbers and the word "sum".
+The program should work correctly if the user enters more than two numbers and the word "sum".
+The program should display text on the screen.

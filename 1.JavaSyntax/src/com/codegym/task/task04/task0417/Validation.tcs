@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task04.task0417"
+
+The task passed testing!
+2019.04.27 12:44
+Your solution to the task was better than 44% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 2.15
+
+Detailed information about verification of your program:
+The program should read the numbers from the keyboard.
+The program should contain System.out.println() or System.out.print().
+If two numbers are equal to each other, you must display them on the screen.
+If all three numbers are equal, then display all three.
+If there are no equal numbers, don't display anything.

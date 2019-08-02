@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task03.task0314"
+
+The task passed testing!
+2019.01.22 17:59 
+
+Your solution to the task was better than 38% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 2.25
+
+Detailed information about verification of your program:
+The program should output text.
+The displayed text should contain 10 lines.
+Each displayed string must contain 10 numbers separated by spaces.
+The displayed numbers must form a multiplication table.

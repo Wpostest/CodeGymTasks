@@ -1,0 +1,50 @@
+package com.codegym.task.task02.task0217;
+
+/* 
+Minimum of four numbers
+
+*/
+public class Solution {
+    public static int min(int a, int b, int c, int d) {
+        //write your code here
+        
+        int m;
+        
+        if(a <= b & a <= c & a <= d){
+            m=a;
+        }
+        else if(b <= a & b <= c & b <= d){
+            m=b;
+        }
+        else if(c <= a & c <= b & c <= d){
+            m=c;
+        }
+        else{
+            m=d;
+        }
+        
+        return min(min (a, b), min (c, d));
+    }
+
+    public static int min(int a, int b) {
+        //write your code here
+        
+        int m;
+        
+        if(a < b){
+            m=a;
+        }
+        else{
+            m=b;
+        }
+        
+        return m;
+    }
+
+    public static void main(String[] args) throws Exception {
+        System.out.println(min(-20, -10));
+        System.out.println(min(-20, -10, -30, -40));
+        System.out.println(min(-20, -10, -30, 40));
+        System.out.println(min(-40, -10, -30, 40));
+    }
+}

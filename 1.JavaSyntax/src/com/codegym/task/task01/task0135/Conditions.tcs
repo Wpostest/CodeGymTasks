@@ -1,0 +1,15 @@
+taskKey="com.codegym.task.task01.task0135"
+
+Two roads diverged in a yellow wood
+
+
+Add a line to display the fourth line of the first stanza of Robert Frost's "The Road Not Taken".
+
+
+Requirements:
+1.	The program should output text.
+2.	The text should begin with &quot;Two roads diverged in a yellow wood,&quot;.
+3.	The text should consist of 4 lines (empty lines are also lines).
+4.	The displayed text must match the task conditions.
+
+

@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task05.task0519"
+
+The task passed testing!
+2019.05.24 10:06
+
+Your solution to the task was better than 19% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 1.24
+
+Detailed information about verification of your program:
+The Circle class must have int variables centerX, centerY, radius, width and color.
+The class must have a constructor that takes centerX, centerY, and radius as arguments, and initializes the corresponding instance variables.
+The class must have a constructor that takes centerX, centerY, radius, and width as arguments, and initializes the corresponding instance variables.
+The class must have a constructor that takes centerX, centerY, radius, width, and color as arguments, and initializes the corresponding instance variables.

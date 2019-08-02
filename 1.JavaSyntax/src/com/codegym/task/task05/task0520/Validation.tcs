@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task05.task0520"
+
+The task passed testing!
+2019.05.24 10:11
+
+Your solution to the task was better than 8% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 1.10
+
+Detailed information about verification of your program:
+The Rectangle class must have int variables top, left, width and height.
+The class must have at least one constructor.
+The class must have at least two constructors.
+The class must have at least three constructors.
+The class must have at least four constructors.

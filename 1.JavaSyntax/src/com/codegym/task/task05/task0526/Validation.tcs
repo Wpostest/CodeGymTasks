@@ -1,0 +1,20 @@
+taskKey="com.codegym.task.task05.task0526"
+
+The task passed testing!
+2019.05.28 10:43
+
+Your solution to the task was better than 44% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 1.83
+
+Detailed information about verification of your program:
+In the Solution class, create a public static Man class.
+In the Solution class, create a public static Woman class.
+The Man class must have variables: String name, int age, and String address.
+The Woman class must have variables: String name, int age, and String address.
+The Man and Woman classes must have constructors that take String, int, and String arguments.
+The constructors must initialize the instance variables.
+In the main method, you need to create two objects of each type.
+The main method should display the created objects on the screen in the specified format.

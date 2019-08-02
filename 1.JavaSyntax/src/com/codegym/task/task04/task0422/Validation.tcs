@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task04.task0422"
+
+The task passed testing!
+2019.05.13 18:09
+
+Your solution to the task was better than 22% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 1.53
+
+Detailed information about verification of your program:
+The program should read data from the keyboard twice.
+The program should use System.out.println() or System.out.print().
+If the age is less than 18, display "Grow up a little more" and nothing else
+If the age is greater than or equal to 18, don't display anything.
+

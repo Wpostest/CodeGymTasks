@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task05.task0501"
+
+The task passed testing!
+2019.05.21 9:54
+
+Your solution to the task was better than 17% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 1.29
+
+Detailed information about verification of your program:
+The program must not read data from the keyboard.
+The Cat class must have a String variable name.
+The Cat class must have an int variable age.
+The Cat class must have an int variable weight.
+The Cat class must have an int variable strength.

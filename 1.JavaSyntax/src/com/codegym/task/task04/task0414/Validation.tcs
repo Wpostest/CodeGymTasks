@@ -1,0 +1,15 @@
+taskKey="com.codegym.task.task04.task0414"
+
+The task passed testing!
+2019.04.26 13:55
+Your solution to the task was better than 46% of other students
+
+You solved it in 2 attempts
+
+The average number of attempts for this task is 3.53
+
+Detailed information about verification of your program:
+The program should read a number from the keyboard.
+The program should display text on the screen according to the task conditions.
+If the entered year is a leap year, you should display: "Number of days in the year: 366".
+If the entered year is not a leap year, you should display: "Number of days in the year: 365".

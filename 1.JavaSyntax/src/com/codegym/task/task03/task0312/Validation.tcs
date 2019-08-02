@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task03.task0312"
+
+The task passed testing!
+2019.01.19 12:58
+
+Your solution to the task was better than 2% of other students
+
+You solved it in 4 attempts
+
+The average number of attempts for this task is 1.59
+
+Detailed information about verification of your program:
+Add the convertToSeconds method. It must be public static, and take and return ints.
+The convertToSeconds method must convert the passed number of hours to seconds.
+The main method must call the convertToSeconds method twice.
+The main method should display the result of the calls, each time on a new line.
+The convertToSeconds method should not display anything.
+

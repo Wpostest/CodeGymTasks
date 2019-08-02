@@ -1,0 +1,16 @@
+taskKey="com.codegym.task.task04.task0443"
+
+The task passed testing!
+2019.05.20 11:18
+
+Your solution to the task was better than 19% of other students
+
+You solved it in 4 attempts
+
+The average number of attempts for this task is 3.07
+
+Detailed information about verification of your program:
+The program should read 4 lines from the keyboard.
+The program should display lines on the screen.
+The program should display text in accordance with the template specified in the task.
+Display each statement on a new line.

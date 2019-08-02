@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task03.task0301"
+
+The task passed testing!  
+2019.01.08 19:54
+
+Your solution to the task was better than 18% other students. 
+You solved it in 1 attempts. The average number of attempts for this task is 1.34. 
+This task has been completed by 1254 students.
+
+Detailed information about verification of your program:
+The div method must divide a by b.
+The div method must display the result of the division.
+The main method should call the div method 3 times.
+The main method should not call a screen output method.
+The program should output three numbers: 2 1 0. Each number on a separate line.
+
+

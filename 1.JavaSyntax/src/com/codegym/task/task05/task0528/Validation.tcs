@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task05.task0528"
+
+The task passed testing!
+2019.05.29 10:33
+
+Your solution to the task was better than 39% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 1.71
+
+Detailed information about verification of your program:
+The date must contain the month, day, and year, separated by a space.
+The month should match the current month.
+The day should match the current day.
+The year should match the current year.
+The entire date should be displayed on a single line.

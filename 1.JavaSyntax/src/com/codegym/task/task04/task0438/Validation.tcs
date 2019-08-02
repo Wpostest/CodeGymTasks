@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task04.task0438"
+
+The task passed testing!
+2019.05.16 14:54
+
+Your solution to the task was better than 21% of other students
+
+You solved it in 2 attempts
+
+The average number of attempts for this task is 2.06
+
+Detailed information about verification of your program:
+The program should not read numbers from the keyboard.
+The program should display numbers on the screen.
+The program should display a horizontal line of 10 eights.
+The program should display a vertical line of 10 eights.
+The program must use a for loop.

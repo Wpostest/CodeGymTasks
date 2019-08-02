@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task05.task0502v3"
+
+The task passed testing!
+2019.05.21 14:28
+
+Your solution to the task was better than 0% of other students
+
+You solved it in 12 attempts
+
+The average number of attempts for this task is 2.29
+
+Detailed information about verification of your program:
+The Cat class must have a constructor with no parameters.
+The Cat class must contain public fields age, weight, and strength.
+The Cat class must have a fight method.
+In the fight method, implement a mechanism for cats to fight based on their weight, age and strength.
+The method should return the same value every time we fight the same cat.
+If cat1 beats cat2, then cat2 must lose to cat1.

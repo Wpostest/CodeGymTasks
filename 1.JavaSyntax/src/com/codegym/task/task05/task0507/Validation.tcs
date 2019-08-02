@@ -1,0 +1,19 @@
+taskKey="com.codegym.task.task05.task0507"
+
+The task passed testing!
+2019.05.22 10:18
+
+Your solution to the task was better than 51% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 2.42
+
+Detailed information about verification of your program:
+The program must read data from the keyboard.
+The program should display data on the screen.
+After entering -1, the program must correctly terminate.
+If you sequentially enter the numbers 1, 2, 2, 4, 5 and -1, the program should display 2.8.
+If you sequentially enter the numbers -100, 0, 100, and -1, the program should display 0.0.
+If you sequentially enter the numbers 1 and -1, the program should display 1.0.
+The displayed result should match the task conditions for any input data.

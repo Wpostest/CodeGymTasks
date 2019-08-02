@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task04.task0425"
+
+The task passed testing!
+2019.05.13 18:40
+
+Your solution to the task was better than 11% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 1.16
+
+Detailed information about verification of your program:
+The program should read the numbers from the keyboard.
+The program should use System.out.println() or System.out.print().
+If the point is in the first quadrant, display "1".
+If the point is in the second quadrant, display "2".
+If the point is in the third quadrant, display "3".
+If the point is in the fourth quadrant, display "4".

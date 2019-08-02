@@ -1,0 +1,19 @@
+taskKey="com.codegym.task.task04.task0421"
+
+The task passed testing!
+2019.05.13 13:01
+
+Your solution to the task was better than 16% of other students
+
+You solved it in 2 attempts
+
+The average number of attempts for this task is 1.81
+
+Detailed information about verification of your program:
+The program should read two lines from the keyboard.
+The program should contain System.out.println() or System.out.print().
+If the names are identical, display "The names are identical"
+If the names are different, but they are the same length, display "The names are the same length"
+If the names and name lengths are different, don't display anything.
+
+

@@ -1,0 +1,17 @@
+taskKey="com.codegym.task.task04.task0441"
+
+The task passed testing!
+2019.05.20 10:24
+
+Your solution to the task was better than 36% of other students
+
+You solved it in 2 attempts
+
+The average number of attempts for this task is 2.75
+
+Detailed information about verification of your program:
+The program should read the numbers from the keyboard.
+The program must display a number on the screen.
+The program should display the middle number of the three numbers.
+If all the numbers are equal, display any one of them.
+If two of the three numbers are equal, display either of the two.

@@ -1,0 +1,22 @@
+taskKey="com.codegym.task.task01.task0132"
+
+The task passed testing!
+29.01.2019 20:26
+
+Your solution to the task was better than 23% of other students
+
+You solved it in 1 attempts
+
+The average number of attempts for this task is 1.44
+
+Detailed information about verification of your program:
+The program must not read data from the keyboard.
+The sumDigitsInNumber(int) method must be public and static.
+The sumDigitsInNumber method must return an int.
+The sumDigitsInNumber method should not display anything.
+The sumDigitsInNumber method must return the sum of all digits in the parameter number.
+
+
+
+
+

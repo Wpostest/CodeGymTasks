@@ -1,0 +1,18 @@
+taskKey="com.codegym.task.task05.task0513"
+
+The task passed testing!
+2019.05.23 10:50
+
+Your solution to the task was better than 6% of other students
+
+You solved it in 2 attempts
+
+The average number of attempts for this task is 1.34
+
+Detailed information about verification of your program:
+The program must not read data from the keyboard.
+The Rectangle class must have int variables top, left, width and height.
+The class must have at least one initialize method.
+The class must have at least two initialize methods.
+The class must have at least three initialize methods.
+The class must have at least four initialize methods.
